@@ -114,10 +114,10 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 CHANNEL', url='https://t.me/NT_BOT_CHANNEL'),
+          InlineKeyboardButton('📍 CHANNEL', url='https://t.me/CodingUltra'),
       ],
       [
-          InlineKeyboardButton('👨‍💻 DEVELOPER', url='https://t.me/LISA_FAN_LK'),
+          InlineKeyboardButton('👨‍💻 DEVELOPER', url='https://t.me/nihalrajput_01'),
           InlineKeyboardButton('🌝 SOURCE', url='https://github.com/LISA-KOREA/UPLOADER-BOT-V2'),
           ]
         ]
