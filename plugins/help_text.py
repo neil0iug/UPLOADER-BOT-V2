@@ -72,7 +72,7 @@ async def help_user(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/NT_BOT_CHANNEL'),
+          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/CodingUltra'),
           ]
         ]
        ),
